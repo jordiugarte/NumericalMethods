@@ -1,7 +1,9 @@
-//Algorith that processes the Newton-Rapshon method
-//Author: Jordi Ugarte
-//Email: jordi933@gmail.com
-//Date: 09/25/19
+/*
+	Algorithm that calculates the Newton-Raphson method
+	Author: Jordi Ugarte
+	Email: jordi933@gmail.com
+	Date: 09/30/2019
+*/
 
 #include<math.h>
 #include<stdio.h>
